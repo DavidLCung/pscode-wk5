@@ -1,0 +1,30 @@
+// Exercise 1: Calculate the Sum of Two Numbers
+
+choose a random two number to add
+
+ex: 5 and 10
+
+write "5+10" in code line
+
+// Exercise 2: Check if a Number is Even or Odd
+
+depending on the two digits
+
+answer is od or even
+
+if (number % 2) == 0:
+
+// Exercise 3: 
+Write pseudo code that will perform the following.    
+
+a) Read in 5 separate numbers.   
+b) Calculate the average of the five numbers.
+c) Find the smallest (minimum) and largest (maximum) of the five entered numbers.
+d) Write out the results found from steps b and c with a message describing what they are
+
+look at list of numbers
+add them (?+?+?+?+?), then divide sum by 5
+list in order
+list all numbers from lowest to high
+
+-- END --
